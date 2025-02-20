@@ -34,3 +34,7 @@ R1(-Zero) methods for training agentic models.
 ## [LMM-R1](https://github.com/TideDra/lmm-r1)
 Reproduction of R1 on multimodal setting. Based on OpenRLHF. Currently support PPO/REINFORCE++/RLOO training for LMM. 
 - MATH dataset.
+
+## [Open Reasoner Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
+Reproduction of Deepseek R1-Zero
+- 57k curated training data
